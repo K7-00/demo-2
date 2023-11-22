@@ -12,6 +12,7 @@ namespace demo_2
         {
             Console.WriteLine("welcome");
             Console.WriteLine("hello");
+            Console.WriteLine("hi");
         }
     }
 }
